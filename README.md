@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# A Shopping cart using React 
+<img src = "shopping cart.png"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
